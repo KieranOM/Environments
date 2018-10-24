@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="Iceberg" size="1.000000 0.707157" />
+    <ImageTarget name="Pyramids" size="1.000000 0.706956" />
+    <ImageTarget name="Desert" size="1.000000 0.706956" />
+    <ImageTarget name="Volcano" size="1.000000 0.706956" />
+    <ImageTarget name="Valley" size="1.000000 0.706956" />
+    <ImageTarget name="Boathouse" size="1.000000 1.420818" />
+  </Tracking>
+</QCARConfig>
